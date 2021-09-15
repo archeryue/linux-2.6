@@ -1,0 +1,4 @@
+-Iinclude
+-Iarch/x86/include
+-D__EXPORTED_HEADERS__
+-D__KERNEL__
